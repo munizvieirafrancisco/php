@@ -1,4 +1,4 @@
 <?PHP
-  echo "Olá Mundo!";
-
-?>
+  echo "Olá Mundo! 234";
+  echo "Olá bi!";
+ ?>
